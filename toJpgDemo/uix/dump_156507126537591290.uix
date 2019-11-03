@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.wingjay.android.jianshi"
+          content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false"
+          focused="false" scrollable="false" long-clickable="false" password="false" selected="false"
+          bounds="[37,1061][1403,1650]">
+        <node index="0" text="注册中" resource-id="android:id/alertTitle" class="android.widget.TextView"
+              package="com.wingjay.android.jianshi" content-desc="" checkable="false" checked="false" clickable="false"
+              enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false"
+              password="false" selected="false" bounds="[177,1180][1263,1300]"/>
+        <node index="1" text="" resource-id="android:id/progress" class="android.widget.ProgressBar"
+              package="com.wingjay.android.jianshi" content-desc="" checkable="false" checked="false" clickable="false"
+              enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false"
+              password="false" selected="false" bounds="[177,1363][345,1531]"/>
+        <node index="2" text="" resource-id="android:id/message" class="android.widget.TextView"
+              package="com.wingjay.android.jianshi" content-desc="" checkable="false" checked="false" clickable="false"
+              enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false"
+              password="false" selected="false" bounds="[429,1405][1263,1489]"/>
+    </node>
+</hierarchy>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0535.jpg</filename>
+	<path>/Users/ztq/Desktop/VOC2007/JPEGImages/0535.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>232</ymin>
+			<xmax>480</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

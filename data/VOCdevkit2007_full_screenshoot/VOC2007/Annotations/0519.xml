@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0519.jpg</filename>
+	<path>/Users/ztq/Desktop/VOC2007/JPEGImages/0519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>imgview</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>421</ymin>
+			<xmax>528</xmax>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+</annotation>

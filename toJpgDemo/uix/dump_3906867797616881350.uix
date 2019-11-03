@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+    <node bounds="[0,0][1080,2135]" checkable="false" checked="false" class="android.widget.FrameLayout"
+        clickable="false" content-desc="" enabled="true" focusable="false"
+        focused="false" index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+        resource-id="" scrollable="false" selected="false" text="">
+        <node bounds="[0,75][1080,2135]" checkable="false" checked="false"
+            class="android.support.v4.widget.DrawerLayout" clickable="false"
+            content-desc="" enabled="true" focusable="false" focused="false" index="0"
+            long-clickable="false" package="com.clover.daysmatter" password="false" resource-id="com.clover.daysmatter:id/drawer_layout"
+            scrollable="false" selected="false" text="">
+            <node bounds="[0,75][1080,2135]" checkable="false" checked="false" class="android.widget.RelativeLayout"
+                clickable="false" content-desc="" enabled="true" focusable="false"
+                focused="false" index="0" long-clickable="false" package="com.clover.daysmatter"
+                password="false" resource-id="" scrollable="false" selected="false"
+                text="">
+                <node bounds="[0,75][154,229]" checkable="false" checked="false" class="android.widget.ImageButton"
+                    clickable="true" content-desc="Open the main menu"
+                    enabled="true" focusable="true" focused="false" index="0"
+                    long-clickable="false" package="com.clover.daysmatter" password="false" resource-id=""
+                    scrollable="false" selected="false" text="" />
+                <node bounds="[165,115][672,189]" checkable="false" checked="false"
+                    class="android.widget.TextView" clickable="false" content-desc=""
+                    enabled="true" focusable="false" focused="false" index="1"
+                    long-clickable="false" package="com.clover.daysmatter" password="false" resource-id=""
+                    scrollable="false" selected="false" text="Days Matter · 倒数日" />
+                <node bounds="[816,86][948,218]" checkable="false" checked="false"
+                    class="android.widget.TextView" clickable="true"
+                    content-desc="列表样式" enabled="true" focusable="true" focused="false"
+                    index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                    resource-id="com.clover.daysmatter:id/action_list_style" scrollable="false" selected="false"
+                    text="" />
+                <node bounds="[948,86][1080,218]" checkable="false" checked="false"
+                    class="android.widget.TextView" clickable="true"
+                    content-desc="添加新事件" enabled="true" focusable="true" focused="false"
+                    index="3" long-clickable="false" package="com.clover.daysmatter" password="false"
+                    resource-id="com.clover.daysmatter:id/action_add" scrollable="false" selected="false"
+                    text="" />
+                <node bounds="[0,229][1080,2135]" checkable="false" checked="false"
+                    class="android.support.v4.view.ViewPager" clickable="false"
+                    content-desc="" enabled="true" focusable="true" focused="false"
+                    index="4" long-clickable="false" package="com.clover.daysmatter" password="false"
+                    resource-id="com.clover.daysmatter:id/view_pager" scrollable="true" selected="false"
+                    text="">
+                    <node bounds="[22,229][1058,2135]" checkable="false" checked="false"
+                        class="android.widget.GridView" clickable="false"
+                        content-desc="" enabled="true" focusable="true" focused="false"
+                        index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                        resource-id="com.clover.daysmatter:id/date_card_grid" scrollable="false" selected="false"
+                        text="">
+                        <node bounds="[22,229][529,660]" checkable="false" checked="false" class="android.widget.FrameLayout"
+                            clickable="false" content-desc="" enabled="true"
+                            focusable="false" focused="false" index="0" long-clickable="false"
+                            package="com.clover.daysmatter" password="false" resource-id=""
+                            scrollable="false" selected="false" text="">
+                            <node bounds="[33,251][518,339]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/title" scrollable="false" selected="false"
+                                text="妈妈生日还有" />
+                            <node bounds="[33,339][518,563]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/date" scrollable="false" selected="false"
+                                text="40" />
+                            <node bounds="[33,566][518,638]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/due_date" scrollable="false" selected="false"
+                                text="2019年十月初六" />
+                        </node>
+                        <node bounds="[551,229][1058,660]" checkable="false" checked="false" class="android.widget.FrameLayout"
+                            clickable="false" content-desc="" enabled="true"
+                            focusable="false" focused="false" index="1" long-clickable="false"
+                            package="com.clover.daysmatter" password="false" resource-id=""
+                            scrollable="false" selected="false" text="">
+                            <node bounds="[562,251][1047,339]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/title" scrollable="false" selected="false"
+                                text="姐姐生日还有" />
+                            <node bounds="[562,339][1047,563]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/date" scrollable="false" selected="false"
+                                text="90" />
+                            <node bounds="[562,566][1047,638]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/due_date" scrollable="false" selected="false"
+                                text="2019年冬月廿七" />
+                        </node>
+                        <node bounds="[22,660][529,1091]" checkable="false" checked="false" class="android.widget.FrameLayout"
+                            clickable="false" content-desc="" enabled="true"
+                            focusable="false" focused="false" index="2" long-clickable="false"
+                            package="com.clover.daysmatter" password="false" resource-id=""
+                            scrollable="false" selected="false" text="">
+                            <node bounds="[33,682][518,770]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/title" scrollable="false" selected="false"
+                                text="New Year 还有" />
+                            <node bounds="[33,770][518,994]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/date" scrollable="false" selected="false"
+                                text="100" />
+                            <node bounds="[33,997][518,1069]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/due_date" scrollable="false" selected="false"
+                                text="2020-01-01 星期三" />
+                        </node>
+                        <node bounds="[551,660][1058,1091]" checkable="false" checked="false" class="android.widget.FrameLayout"
+                            clickable="false" content-desc="" enabled="true"
+                            focusable="false" focused="false" index="3" long-clickable="false"
+                            package="com.clover.daysmatter" password="false" resource-id=""
+                            scrollable="false" selected="false" text="">
+                            <node bounds="[562,682][1047,770]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/title" scrollable="false" selected="false"
+                                text="春节还有" />
+                            <node bounds="[562,770][1047,994]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/date" scrollable="false" selected="false"
+                                text="124" />
+                            <node bounds="[562,997][1047,1069]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/due_date" scrollable="false" selected="false"
+                                text="2020年正月初一" />
+                        </node>
+                        <node bounds="[22,1091][529,1522]" checkable="false" checked="false" class="android.widget.FrameLayout"
+                            clickable="false" content-desc="" enabled="true"
+                            focusable="false" focused="false" index="4" long-clickable="false"
+                            package="com.clover.daysmatter" password="false" resource-id=""
+                            scrollable="false" selected="false" text="">
+                            <node bounds="[33,1113][518,1201]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/title" scrollable="false" selected="false"
+                                text="Piggy生日还有" />
+                            <node bounds="[33,1201][518,1425]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/date" scrollable="false" selected="false"
+                                text="303" />
+                            <node bounds="[33,1428][518,1500]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/due_date" scrollable="false" selected="false"
+                                text="2020年六月初二" />
+                        </node>
+                        <node bounds="[551,1091][1058,1522]" checkable="false" checked="false" class="android.widget.FrameLayout"
+                            clickable="false" content-desc="" enabled="true"
+                            focusable="false" focused="false" index="5" long-clickable="false"
+                            package="com.clover.daysmatter" password="false" resource-id=""
+                            scrollable="false" selected="false" text="">
+                            <node bounds="[562,1113][1047,1201]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/title" scrollable="false" selected="false"
+                                text="依依生日还有" />
+                            <node bounds="[562,1201][1047,1425]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/date" scrollable="false" selected="false"
+                                text="314" />
+                            <node bounds="[562,1428][1047,1500]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/due_date" scrollable="false" selected="false"
+                                text="2020年六月十三" />
+                        </node>
+                        <node bounds="[22,1522][529,1953]" checkable="false" checked="false" class="android.widget.FrameLayout"
+                            clickable="false" content-desc="" enabled="true"
+                            focusable="false" focused="false" index="6" long-clickable="false"
+                            package="com.clover.daysmatter" password="false" resource-id=""
+                            scrollable="false" selected="false" text="">
+                            <node bounds="[33,1544][518,1632]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/title" scrollable="false" selected="false"
+                                text="爸爸生日还有" />
+                            <node bounds="[33,1632][518,1856]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/date" scrollable="false" selected="false"
+                                text="349" />
+                            <node bounds="[33,1859][518,1931]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/due_date" scrollable="false" selected="false"
+                                text="2020年七月十九" />
+                        </node>
+                        <node bounds="[551,1522][1058,1953]" checkable="false" checked="false" class="android.widget.FrameLayout"
+                            clickable="false" content-desc="" enabled="true"
+                            focusable="false" focused="false" index="7" long-clickable="false"
+                            package="com.clover.daysmatter" password="false" resource-id=""
+                            scrollable="false" selected="false" text="">
+                            <node bounds="[562,1544][1047,1632]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/title" scrollable="false" selected="false"
+                                text="zzcp在一起已经" />
+                            <node bounds="[562,1632][1047,1856]" checkable="false" checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/date" scrollable="false" selected="false"
+                                text="815" />
+                            <node bounds="[562,1859][1047,1931]" checkable="false"
+                                checked="false"
+                                class="android.widget.TextView" clickable="false"
+                                content-desc="" enabled="true" focusable="false" focused="false"
+                                index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                                resource-id="com.clover.daysmatter:id/due_date" scrollable="false" selected="false"
+                                text="2017-06-30 星期五" />
+                        </node>
+                    </node>
+                </node>
+                <node bounds="[0,0][0,0]" checkable="false" checked="false"
+                    class="android.widget.HorizontalScrollView" clickable="false"
+                    content-desc="" enabled="true" focusable="true" focused="false"
+                    index="5" long-clickable="false" package="com.clover.daysmatter" password="false"
+                    resource-id="com.clover.daysmatter:id/tab_blue_bottom" scrollable="false" selected="false" text="">
+                    <node NAF="true" bounds="[0,0][0,0]" checkable="false" checked="false"
+                        class="android.support.v7.app.ActionBar$Tab" clickable="true"
+                        content-desc="" enabled="true" focusable="true" focused="false"
+                        index="0" long-clickable="false" package="com.clover.daysmatter" password="false"
+                        resource-id="" scrollable="false" selected="true"
+                        text="" />
+                    <node NAF="true" bounds="[0,0][0,0]" checkable="false" checked="false"
+                        class="android.support.v7.app.ActionBar$Tab" clickable="true"
+                        content-desc="" enabled="true" focusable="true" focused="false"
+                        index="1" long-clickable="false" package="com.clover.daysmatter" password="false"
+                        resource-id="" scrollable="false" selected="false"
+                        text="" />
+                    <node NAF="true" bounds="[0,0][0,0]" checkable="false" checked="false"
+                        class="android.support.v7.app.ActionBar$Tab" clickable="true"
+                        content-desc="" enabled="true" focusable="true" focused="false"
+                        index="2" long-clickable="false" package="com.clover.daysmatter" password="false"
+                        resource-id="" scrollable="false" selected="false"
+                        text="" />
+                    <node NAF="true" bounds="[0,0][0,0]" checkable="false" checked="false"
+                        class="android.support.v7.app.ActionBar$Tab" clickable="true"
+                        content-desc="" enabled="true" focusable="true" focused="false"
+                        index="3" long-clickable="false" package="com.clover.daysmatter" password="false"
+                        resource-id="" scrollable="false" selected="false"
+                        text="" />
+                    <node NAF="true" bounds="[0,0][0,0]" checkable="false" checked="false"
+                        class="android.support.v7.app.ActionBar$Tab" clickable="true"
+                        content-desc="" enabled="true" focusable="true" focused="false"
+                        index="4" long-clickable="false" package="com.clover.daysmatter" password="false"
+                        resource-id="" scrollable="false" selected="false"
+                        text="" />
+                </node>
+            </node>
+        </node>
+    </node>
+</hierarchy>
